@@ -1,6 +1,7 @@
 # parking_countdown
 
-![](https://github.com/lumberjack-programmer/weather_app/blob/master/weather_app_github_gif.gif)
+![](https://github.com/lumberjack-programmer/parking_countdown/blob/907bccb8b3cb892eaf5168efc366293d2f78d897/1.gif)
+
 
 ## Getting Started
 
