@@ -1,6 +1,6 @@
 # parking_countdown
 
-A new Flutter project.
+![](https://github.com/lumberjack-programmer/weather_app/blob/master/weather_app_github_gif.gif)
 
 ## Getting Started
 
